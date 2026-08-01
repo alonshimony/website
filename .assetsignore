@@ -1,0 +1,11 @@
+node_modules/
+**/node_modules/**
+.git/
+**/.git/**
+.wrangler/
+package.json
+bun.lock
+bun.lockb
+package-lock.json
+wrangler.jsonc
+README.md

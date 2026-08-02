@@ -9,3 +9,4 @@ bun.lockb
 package-lock.json
 wrangler.jsonc
 README.md
+scripts/
